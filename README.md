@@ -1,1 +1,1 @@
-This Repo will contain my small projects while learning Machine Learning maths and systems
+This Repo contains my small projects while learning Machine Learning maths and systems
